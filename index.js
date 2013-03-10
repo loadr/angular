@@ -1,0 +1,1 @@
+"require http://ajax.googleapis.com/ajax/libs/angularjs/1.0.4/angular.min.js"
